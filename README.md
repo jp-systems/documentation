@@ -7,7 +7,7 @@ Documentation for SOM project.
 - [x] Team Roles & Responsibilities
 - [ ] Project Aims
 - [ ] Project Scope
-- [ ] Project Risks
+- [x] Project Risks
 - [ ] Reasons for agile/structured methodologies selected
 
 ### Requirements (900 words)
