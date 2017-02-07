@@ -4,7 +4,7 @@ Documentation for SOM project.
 ## Part 1
 ### Project Initiation Document (700 words)
 - [ ] Project Proposal
-- [ ] Team Roles & Responsibilities
+- [x] Team Roles & Responsibilities
 - [ ] Project Aims
 - [ ] Project Scope
 - [ ] Project Risks
