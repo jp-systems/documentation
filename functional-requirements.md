@@ -9,6 +9,9 @@
 * Implement translation tools to allow students to communicate in their native language.
 * Allow tutors to oversee their respective module channels and help students.
 * Allow answers to questions to be thumbed up or thumbed down, and sort answers to question by this rating.
+* Customisation of user profiles - username & profile picture
+* Ability to edit & delete posts
 
 # Would Have
 * See when other users are typing within a channel.
+* Community badges - rewarded for amount of likes
