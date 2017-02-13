@@ -1,5 +1,6 @@
 # Documentation
 Documentation for SOM project.
+> [Link to shared Docs](https://uniworcac-my.sharepoint.com/personal/wilc5_15_uni_worc_ac_uk/_layouts/15/guestaccess.aspx?folderid=177cabd400e8f4e47b96a16ae4b361edc&authkey=AQcOGqnEidodTioLoR803lI)
 
 ## Part 1
 ### Project Initiation Document (700 words)
