@@ -4,12 +4,12 @@ Documentation for SOM project.
 
 ## Part 1
 ### Project Initiation Document (700 words)
-- [ ] Project Proposal
+- [x] Project Proposal
 - [x] Team Roles & Responsibilities
-- [ ] Project Aims
+- [x] Project Aims
 - [ ] Project Scope
 - [x] Project Risks
-- [ ] Reasons for agile/structured methodologies selected
+- [x] Reasons for agile/structured methodologies selected
 
 ### Requirements (900 words)
 - [ ] Functional Requirements
