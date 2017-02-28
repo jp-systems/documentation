@@ -39,4 +39,4 @@
 * Opened a Google account to be shared and accessed by the group
 * Created a Google Form containing the now approved questionnaire to be distributed to students
 * Discussed the flow of the website (UX) as a whole and how users will gain access each proposed section. Viewed other websites to gain inspiration and discuss ideas  
-* Tentatively began a ER-D and menu map
+* Tentatively began an ER-D and menu map
