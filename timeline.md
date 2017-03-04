@@ -33,6 +33,8 @@
 
 ## 28th February 2017
 
+---
+
 ### In attendance
 > Han Lui, Matthew Shotton & Chris Williams
 
