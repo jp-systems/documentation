@@ -14,7 +14,9 @@
 - [x] Non-functional Requirements __continue to expand__
 
 ### Systems Analysis Modelling (300 words)
-- [ ] At least one analysis modelling technique
+- [ ] At least one analysis modelling technique (Entity Relationship Diagram)
+ - [ ] Entity Relationship Diagram
+ - [ ] Data Dictionary
 - [ ] Assumptions
 
 ### Project Management & Planning (500 words)
