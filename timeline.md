@@ -31,9 +31,9 @@
 * Requirements further cemented and agreed upon, programming languages and tools agreed upon.
 * Brief presentation given to the group
 
-## 28th February 2017
-
 ---
+
+## 28th February 2017
 
 ### In attendance
 > Han Lui, Matthew Shotton & Chris Williams
@@ -42,3 +42,15 @@
 * Created a Google Form containing the now approved questionnaire to be distributed to students
 * Discussed the flow of the website (UX) as a whole and how users will gain access each proposed section. Viewed other websites to gain inspiration and discuss ideas  
 * Tentatively began an ER-D and menu map
+
+---
+
+### 7th March 2017
+
+### In attendance
+> Han Liu, Chris Williams & Brad Davies.
+
+* Initial entity relationship diagram constructed, outlining the intended design of the system and the data it contains.
+* Data dictionary for ERD created, documenting the fields and data types the associated entities will contain.
+* Methodology of feature-driven development incorporated into our previous approach.
+* Further consolidated our overall system and the functional and visual aspects.
