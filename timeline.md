@@ -45,7 +45,7 @@
 
 ---
 
-### 7th March 2017
+## 7th March 2017
 
 ### In attendance
 > Han Liu, Chris Williams & Brad Davies.
@@ -54,3 +54,13 @@
 * Data dictionary for ERD created, documenting the fields and data types the associated entities will contain.
 * Methodology of feature-driven development incorporated into our previous approach.
 * Further consolidated our overall system and the functional and visual aspects.
+
+## 14th March 2017
+
+### In attendance
+> Han Liu, Matthew Shotton, Brad Davies & Chris Williams
+
+* Page layout and pages to include discussed by the group. Specifically what a user who is logged in or not registered should be able to see and do.
+* After logging in a student should land at a content feed page showing recent activity based on their modules
+* Starting designing page wireframes for the log in and sign in pages which all members will expand upon before the next group meeting.
+* Decided on a build path using Vuejs for serving page views and components required for a single page application.
