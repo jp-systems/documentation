@@ -55,6 +55,8 @@
 * Methodology of feature-driven development incorporated into our previous approach.
 * Further consolidated our overall system and the functional and visual aspects.
 
+---
+
 ## 14th March 2017
 
 ### In attendance
