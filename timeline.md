@@ -66,3 +66,16 @@
 * After logging in a student should land at a content feed page showing recent activity based on their modules
 * Starting designing page wireframes for the log in and sign in pages which all members will expand upon before the next group meeting.
 * Decided on a build path using Vuejs for serving page views and components required for a single page application.
+
+---
+
+## 21st March 2017
+
+### In attendance
+> Han Liu, Brad Davies & Chris Williams
+
+* ER-D altered to now 7 tables, removed the wiki table into the module table as the link between was one-to-one and the wiki field text changed to outline. 
+* Primary keys for each table now prefixed with table name. 
+* Created the relational database with all fields, types and size. The firebase database using share google account also established.
+* Added additional details to part 1 of doc to reflect changes to the database. 
+* Set-up the build path and updated the repo 
