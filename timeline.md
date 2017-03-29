@@ -80,6 +80,8 @@
 * Added additional details to part 1 of doc to reflect changes to the database. 
 * Set-up the build path and updated the repo 
 
+---
+
 ## 28th March 2017
 
 ### In attendance
