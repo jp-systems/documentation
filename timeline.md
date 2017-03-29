@@ -79,3 +79,13 @@
 * Created the relational database with all fields, types and size. The firebase database using share google account also established.
 * Added additional details to part 1 of doc to reflect changes to the database. 
 * Set-up the build path and updated the repo 
+
+## 28th March 2017
+
+### In attendance
+> Han Liu, Matthew Shotton, Brad Davis & Chris Williams
+
+* Began work on the back-end of the system, with a custom api set-up to respond to sql statements
+* 2 php pages created to perform most of the heavy lifting re-database. 
+* ajax.php used for GET and POST requests made which utilises functions.php to perform the connection.
+* Basic create new user now possible via temporary TestLogin vue component. User password hashed and userID randomised utilising helper function in functions.php
