@@ -14,15 +14,15 @@
 - [x] Non-functional Requirements __continue to expand__
 
 ### Systems Analysis Modelling (300 words)
-- [ ] At least one analysis modelling technique (Entity Relationship Diagram)
- - [ ] Entity Relationship Diagram
- - [ ] Data Dictionary
-- [ ] Assumptions
+- [x] At least one analysis modelling technique (Entity Relationship Diagram)
+ - [x] Entity Relationship Diagram
+ - [x] Data Dictionary
+- [x] Assumptions
 
 ### Project Management & Planning (500 words)
 - [x] Minutes of meetings (Slack logs & sum up meetings) [Timeline](timeline.md)
 - [ ] Gantt Charts (Individual & Whole Group) __Can create these later from the timeline we keep track of__
-- [ ] Conflict Resolution, Communication & Teamwork Details
+- [x] Conflict Resolution, Communication & Teamwork Details
 
 ## Part 2
 ### Systems Design (400 words)
