@@ -87,7 +87,8 @@
 ### In attendance
 > Han Liu, Matthew Shotton, Brad Davis & Chris Williams
 
-* Began work on the back-end of the system, with a custom api set-up to respond to sql statements
+* Began work on the back-end of the system, with a RESTful API setup to act and respond to requests sent via AJAX.
 * 2 php pages created to perform most of the heavy lifting re-database. 
 * ajax.php used for GET and POST requests made which utilises functions.php to perform the connection.
 * Basic create new user now possible via temporary TestLogin vue component. User password hashed and userID randomised utilising helper function in functions.php
+* User-critical data retrieval/addition/modification must only be performed if a valid user login session is sent with the request.
