@@ -95,9 +95,11 @@
 
 ---
 
-## 3rd April 2017
+## 4th April 2017
 
 ### In attendance
 > Han Liu, Brad Davis & Chris Williams
 
-* Continued to develop the API and php required for querying/adding to the database
+* Continued to develop the API via PHP that is required for interacting with the system & database.
+* Further considered the security aspects of the system with relation to XSS/CSRF prevention via form sanitization, prepared statements via PDO and form request tokens.
+* Persistent login system now functional and working correctly. Sessions will persist across a period of time (typically 2 weeks or 30 days), and automatically re-login the user on returning to the site.
