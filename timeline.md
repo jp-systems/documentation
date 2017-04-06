@@ -103,4 +103,4 @@
 * Continued to develop the API via PHP that is required for interacting with the system & database.
 * Further considered the security aspects of the system with relation to XSS/CSRF prevention via form sanitization, prepared statements via PDO and form request tokens.
 * Persistent login system now functional and working correctly. Sessions will persist across a period of time (typically 2 weeks or 30 days), and automatically re-login the user on returning to the site.
-* __Agreements made for team members to continue developing both the system and producing the relevant documentation throughout the Easter break __
+* __Agreements made for team members to continue developing both the system and producing the relevant documentation throughout the Easter break__
