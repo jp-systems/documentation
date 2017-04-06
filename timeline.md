@@ -92,3 +92,12 @@
 * ajax.php used for GET and POST requests made which utilises functions.php to perform the connection.
 * Basic create new user now possible via temporary TestLogin vue component. User password hashed and userID randomised utilising helper function in functions.php
 * User-critical data retrieval/addition/modification must only be performed if a valid user login session is sent with the request.
+
+---
+
+## 3rd April 2017
+
+### In attendance
+> Han Liu, Brad Davis & Chris Williams
+
+* Continued to develop the API and php required for querying/adding to the database
