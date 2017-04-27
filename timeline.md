@@ -104,3 +104,14 @@
 * Further considered the security aspects of the system with relation to XSS/CSRF prevention via form sanitization, prepared statements via PDO and form request tokens.
 * Persistent login system now functional and working correctly. Sessions will persist across a period of time (typically 2 weeks or 30 days), and automatically re-login the user on returning to the site.
 * __Agreements made for team members to continue developing both the system and producing the relevant documentation throughout the Easter break. Will continue to communicate via Slack and Github, with relevant documentation being produced and accessible via OneDrive, and all system source code being managed through Git SCM and GitHub.__
+
+---
+
+## 25th April 2017
+
+### In attendance
+> Han Liu, Matthew Shotton, Brad Davies & Chris Williams
+
+* Started work on the final must have requirement, Question & Answer section with a toggle included when users want to post a message anonymously
+* Black box testing on the live website
+* Design updated in various components: modules / search / app sidebar
